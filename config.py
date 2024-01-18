@@ -17,10 +17,16 @@ class Config:
     FLASK_DEBUG = environ.get("FLASK_DEBUG")
     SECRET_KEY = environ.get("SECRET_KEY")
     
+    FLASK_ADDRESS = environ.get("FLASK_ADDRESS")
+    PORT = environ.get("PORT")
+    
     # Database
+    MONGO_URI = environ.get("MONGO_URI")
     # SQLALCHEMY_DATABASE_URI = environ.get("SQLALCHEMY_DATABASE_URI")
     # SQLALCHEMY_ECHO = False
     # SQLALCHEMY_TRACK_MODIFICATIONS = False
     
     # Microservice discovery
-    RECOMMENDER_URL = "127.0.0.1:8001"
+    # this is where it can potentially happen
+    # if we dont use any environment files or anything like that
+    # RECOMMENDER_URL = "127.0.0.1:8001"
