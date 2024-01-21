@@ -1,0 +1,602 @@
+[
+    {
+        "start": 1649347200000,
+        "end": 1649349900000,
+        "artist": "MEAU",
+        "stage": "Apollo"
+    },
+    {
+        "start": 1649352600000,
+        "end": 1649356200000,
+        "artist": "Flemming",
+        "stage": "Apollo"
+    },
+    {
+        "start": 1649359800000,
+        "end": 1649363400000,
+        "artist": "Antoon",
+        "stage": "Apollo"
+    },
+    {
+        "start": 1649367000000,
+        "end": 1649370600000,
+        "artist": "DI-RECT",
+        "stage": "Apollo"
+    },
+    {
+        "start": 1649374200000,
+        "end": 1649466000000,
+        "artist": "Limp Bizkit",
+        "stage": "Apollo"
+    },
+    {
+        "start": 1649349000000,
+        "end": 1649352600000,
+        "artist": "Tabitha",
+        "stage": "Phoenix"
+    },
+    {
+        "start": 1649356200000,
+        "end": 1649359800000,
+        "artist": "Triggerfinger",
+        "stage": "Phoenix"
+    },
+    {
+        "start": 1649363400000,
+        "end": 1649367000000,
+        "artist": "Frank Carter & The Rattlesnakes",
+        "stage": "Phoenix"
+    },
+    {
+        "start": 1649368800000,
+        "end": 1649374200000,
+        "artist": "Pan-Pot",
+        "stage": "Phoenix"
+    },
+    {
+        "start": 1649374200000,
+        "end": 1649466000000,
+        "artist": "Enrico Sangiuliano",
+        "stage": "Phoenix"
+    },
+    {
+        "start": 1649349900000,
+        "end": 1649351700000,
+        "artist": "Brunzyn",
+        "stage": "Roxy"
+    },
+    {
+        "start": 1649353500000,
+        "end": 1649355300000,
+        "artist": "Cor",
+        "stage": "Roxy"
+    },
+    {
+        "start": 1649360700000,
+        "end": 1649363400000,
+        "artist": "Bente",
+        "stage": "Roxy"
+    },
+    {
+        "start": 1649365200000,
+        "end": 1649367900000,
+        "artist": "Dopebwoy",
+        "stage": "Roxy"
+    },
+    {
+        "start": 1649370600000,
+        "end": 1649373300000,
+        "artist": "Rotjoch",
+        "stage": "Roxy"
+    },
+    {
+        "start": 1649289600000,
+        "end": 1649293200000,
+        "artist": "Go_A",
+        "stage": "Roxy"
+    },
+    {
+        "start": 1649347200000,
+        "end": 1649350800000,
+        "artist": "La June",
+        "stage": "The sIlver Warehouse"
+    },
+    {
+        "start": 1649350800000,
+        "end": 1649354400000,
+        "artist": "Irwan",
+        "stage": "The sIlver Warehouse"
+    },
+    {
+        "start": 1649354400000,
+        "end": 1649358000000,
+        "artist": "Sam Hofman",
+        "stage": "The sIlver Warehouse"
+    },
+    {
+        "start": 1649358000000,
+        "end": 1649361600000,
+        "artist": "Mr. Belt & Wezol",
+        "stage": "The sIlver Warehouse"
+    },
+    {
+        "start": 1649361600000,
+        "end": 1649365200000,
+        "artist": "La Fuente",
+        "stage": "The sIlver Warehouse"
+    },
+    {
+        "start": 1649365200000,
+        "end": 1649368800000,
+        "artist": "Kris Kross Amsterdam",
+        "stage": "The sIlver Warehouse"
+    },
+    {
+        "start": 1649368800000,
+        "end": 1649372400000,
+        "artist": "Adaro",
+        "stage": "The sIlver Warehouse"
+    },
+    {
+        "start": 1649372400000,
+        "end": 1649462400000,
+        "artist": "Vertile",
+        "stage": "The sIlver Warehouse"
+    },
+    {
+        "start": 1649289600000,
+        "end": 1649293200000,
+        "artist": "Sefa",
+        "stage": "The sIlver Warehouse"
+    },
+    {
+        "start": 1649347200000,
+        "end": 1649350800000,
+        "artist": "Wargasm",
+        "stage": "The Jack"
+    },
+    {
+        "start": 1649354400000,
+        "end": 1649358000000,
+        "artist": "Ploegendienst",
+        "stage": "The Jack"
+    },
+    {
+        "start": 1649361600000,
+        "end": 1649365200000,
+        "artist": "Bob Vylan",
+        "stage": "The Jack"
+    },
+    {
+        "start": 1649349900000,
+        "end": 1649352600000,
+        "artist": "KUZKO",
+        "stage": "Luxor"
+    },
+    {
+        "start": 1649356200000,
+        "end": 1649359800000,
+        "artist": "Gallus",
+        "stage": "Luxor"
+    },
+    {
+        "start": 1649363400000,
+        "end": 1649367000000,
+        "artist": "The Blue Stones",
+        "stage": "Luxor"
+    },
+    {
+        "start": 1649370600000,
+        "end": 1649374200000,
+        "artist": "Wodan Boys",
+        "stage": "Luxor"
+    },
+    {
+        "start": 1649354400000,
+        "end": 1649358900000,
+        "artist": "Crazy Little Things",
+        "stage": "Theatre"
+    },
+    {
+        "start": 1649360700000,
+        "end": 1649365200000,
+        "artist": "The Ultimate Michael Jackson Experience",
+        "stage": "Theatre"
+    },
+    {
+        "start": 1649367000000,
+        "end": 1649372400000,
+        "artist": "Martijn Fischer",
+        "stage": "Theatre"
+    },
+    {
+        "start": 1649374200000,
+        "end": 1649466000000,
+        "artist": "Baby Blue",
+        "stage": "Theatre"
+    },
+    {
+        "start": 1649347200000,
+        "end": 1649350800000,
+        "artist": "Harry und Stephan",
+        "stage": "Loco Royale"
+    },
+    {
+        "start": 1649350800000,
+        "end": 1649355300000,
+        "artist": "Hey Boyband, Hey Girlband",
+        "stage": "Loco Royale"
+    },
+    {
+        "start": 1649355300000,
+        "end": 1649358900000,
+        "artist": "Show",
+        "stage": "Loco Royale"
+    },
+    {
+        "start": 1649358900000,
+        "end": 1649360700000,
+        "artist": "Flipperdisco",
+        "stage": "Loco Royale"
+    },
+    {
+        "start": 1649360700000,
+        "end": 1649364300000,
+        "artist": "Pure Ellende",
+        "stage": "Loco Royale"
+    },
+    {
+        "start": 1649364300000,
+        "end": 1649366100000,
+        "artist": "Flipperdisco",
+        "stage": "Loco Royale"
+    },
+    {
+        "start": 1649366100000,
+        "end": 1649369700000,
+        "artist": "STUK",
+        "stage": "Loco Royale"
+    },
+    {
+        "start": 1649369700000,
+        "end": 1649371500000,
+        "artist": "Flipperdisco",
+        "stage": "Loco Royale"
+    },
+    {
+        "start": 1649371500000,
+        "end": 1649462400000,
+        "artist": "Gestapo Knallmuzik",
+        "stage": "Loco Royale"
+    },
+    {
+        "start": 1649289600000,
+        "end": 1649293200000,
+        "artist": "Loco Loco Discoshow",
+        "stage": "Loco Royale"
+    },
+    {
+        "start": 1649356200000,
+        "end": 1649359800000,
+        "artist": "The Juke Joints",
+        "stage": "Area 9"
+    },
+    {
+        "start": 1649365200000,
+        "end": 1649368800000,
+        "artist": "We're the Men",
+        "stage": "Area 9"
+    },
+    {
+        "start": 1649374200000,
+        "end": 1649464200000,
+        "artist": "Piledriver",
+        "stage": "Area 9"
+    },
+    {
+        "start": 1649347200000,
+        "end": 1649354400000,
+        "artist": "The Groove Supplier",
+        "stage": "The Garage"
+    },
+    {
+        "start": 1649354400000,
+        "end": 1649358000000,
+        "artist": "CAJA",
+        "stage": "The Garage"
+    },
+    {
+        "start": 1649358000000,
+        "end": 1649361600000,
+        "artist": "Ome Kev",
+        "stage": "The Garage"
+    },
+    {
+        "start": 1649361600000,
+        "end": 1649367000000,
+        "artist": "Yoshua Jr.",
+        "stage": "The Garage"
+    },
+    {
+        "start": 1649367000000,
+        "end": 1649372400000,
+        "artist": "Groove Safari",
+        "stage": "The Garage"
+    },
+    {
+        "start": 1649372400000,
+        "end": 1649466000000,
+        "artist": "Nothing but Funk",
+        "stage": "The Garage"
+    },
+    {
+        "start": 1649350800000,
+        "end": 1649352600000,
+        "artist": "Dirk Drost",
+        "stage": "Dolle Mina"
+    },
+    {
+        "start": 1649356200000,
+        "end": 1649358000000,
+        "artist": "Ren\u00e9 Ulehake",
+        "stage": "Dolle Mina"
+    },
+    {
+        "start": 1649363400000,
+        "end": 1649365200000,
+        "artist": "Marco Kanters",
+        "stage": "Dolle Mina"
+    },
+    {
+        "start": 1649369700000,
+        "end": 1649371500000,
+        "artist": "John de Bever",
+        "stage": "Dolle Mina"
+    },
+    {
+        "start": 1649289600000,
+        "end": 1649291400000,
+        "artist": "Arjon Oostrom",
+        "stage": "Dolle Mina"
+    },
+    {
+        "start": 1649347200000,
+        "end": 1649349900000,
+        "artist": "Callkoen",
+        "stage": "The Social club"
+    },
+    {
+        "start": 1649352600000,
+        "end": 1649356200000,
+        "artist": "Papaformigas",
+        "stage": "The Social club"
+    },
+    {
+        "start": 1649359800000,
+        "end": 1649363400000,
+        "artist": "Goeiemiddag",
+        "stage": "The Social club"
+    },
+    {
+        "start": 1649367000000,
+        "end": 1649370600000,
+        "artist": "Doctor Krapula",
+        "stage": "The Social club"
+    },
+    {
+        "start": 1649375100000,
+        "end": 1649466000000,
+        "artist": "The Wetnecks",
+        "stage": "The Social club"
+    },
+    {
+        "start": 1649343600000,
+        "end": 1649347200000,
+        "artist": "SM\u00c8RRIG Diskjochies",
+        "stage": "SM\u00c8RRIG"
+    },
+    {
+        "start": 1649347200000,
+        "end": 1649350800000,
+        "artist": "SiRens",
+        "stage": "SM\u00c8RRIG"
+    },
+    {
+        "start": 1649350800000,
+        "end": 1649354400000,
+        "artist": "Gijs Padding",
+        "stage": "SM\u00c8RRIG"
+    },
+    {
+        "start": 1649354400000,
+        "end": 1649358000000,
+        "artist": "Bartje Bricks",
+        "stage": "SM\u00c8RRIG"
+    },
+    {
+        "start": 1649358000000,
+        "end": 1649361600000,
+        "artist": "Spinn'Em",
+        "stage": "SM\u00c8RRIG"
+    },
+    {
+        "start": 1649361600000,
+        "end": 1649365200000,
+        "artist": "Kruzo",
+        "stage": "SM\u00c8RRIG"
+    },
+    {
+        "start": 1649365200000,
+        "end": 1649368800000,
+        "artist": "Be Charm'D",
+        "stage": "SM\u00c8RRIG"
+    },
+    {
+        "start": 1649368800000,
+        "end": 1649372400000,
+        "artist": "Golddiggers",
+        "stage": "SM\u00c8RRIG"
+    },
+    {
+        "start": 1649372400000,
+        "end": 1649462400000,
+        "artist": "Rugged",
+        "stage": "SM\u00c8RRIG"
+    },
+    {
+        "start": 1649289600000,
+        "end": 1649293200000,
+        "artist": "Moschino",
+        "stage": "SM\u00c8RRIG"
+    },
+    {
+        "start": 1649343600000,
+        "end": 1649349000000,
+        "artist": "Robbie Lion",
+        "stage": "Disco Snolly"
+    },
+    {
+        "start": 1649349000000,
+        "end": 1649354400000,
+        "artist": "De Manager",
+        "stage": "Disco Snolly"
+    },
+    {
+        "start": 1649354400000,
+        "end": 1649359800000,
+        "artist": "Tommy Summer",
+        "stage": "Disco Snolly"
+    },
+    {
+        "start": 1649359800000,
+        "end": 1649365200000,
+        "artist": "Disco Derek",
+        "stage": "Disco Snolly"
+    },
+    {
+        "start": 1649365200000,
+        "end": 1649368800000,
+        "artist": "FissABBAnd",
+        "stage": "Disco Snolly"
+    },
+    {
+        "start": 1649368800000,
+        "end": 1649374200000,
+        "artist": "Keezus Christus",
+        "stage": "Disco Snolly"
+    },
+    {
+        "start": 1649374200000,
+        "end": 1649466000000,
+        "artist": "Disco Snolly",
+        "stage": "Disco Snolly"
+    },
+    {
+        "start": 1649343600000,
+        "end": 1649349000000,
+        "artist": "K-man",
+        "stage": "Casa Barcardi"
+    },
+    {
+        "start": 1649349000000,
+        "end": 1649355300000,
+        "artist": "Morry",
+        "stage": "Casa Barcardi"
+    },
+    {
+        "start": 1649355300000,
+        "end": 1649356200000,
+        "artist": "Nereo",
+        "stage": "Casa Barcardi"
+    },
+    {
+        "start": 1649358000000,
+        "end": 1649362500000,
+        "artist": "Elin Valery",
+        "stage": "Casa Barcardi"
+    },
+    {
+        "start": 1649362500000,
+        "end": 1649365800000,
+        "artist": "Jorda",
+        "stage": "Casa Barcardi"
+    },
+    {
+        "start": 1649365800000,
+        "end": 1649367000000,
+        "artist": "Kilate Tesla",
+        "stage": "Casa Barcardi"
+    },
+    {
+        "start": 1649367000000,
+        "end": 1649372400000,
+        "artist": "Morry",
+        "stage": "Casa Barcardi"
+    },
+    {
+        "start": 1649372400000,
+        "end": 1649462400000,
+        "artist": "MIMI",
+        "stage": "Casa Barcardi"
+    },
+    {
+        "start": 1649289600000,
+        "end": 1649293200000,
+        "artist": "Jorda",
+        "stage": "Casa Barcardi"
+    },
+    {
+        "start": 1649350800000,
+        "end": 1649353500000,
+        "artist": "Van Binsbergen Trio",
+        "stage": "The Little Theatre"
+    },
+    {
+        "start": 1649353500000,
+        "end": 1649355300000,
+        "artist": "Braboneger",
+        "stage": "The Little Theatre"
+    },
+    {
+        "start": 1649355300000,
+        "end": 1649357100000,
+        "artist": "Martijn oosterhuis",
+        "stage": "The Little Theatre"
+    },
+    {
+        "start": 1649357100000,
+        "end": 1649359800000,
+        "artist": "Van Binsbergen Trio",
+        "stage": "The Little Theatre"
+    },
+    {
+        "start": 1649359800000,
+        "end": 1649361600000,
+        "artist": "Braboneger",
+        "stage": "The Little Theatre"
+    },
+    {
+        "start": 1649361600000,
+        "end": 1649363400000,
+        "artist": "Martijn oosterhuis",
+        "stage": "The Little Theatre"
+    },
+    {
+        "start": 1649363400000,
+        "end": 1649366100000,
+        "artist": "Van Binsbergen Trio",
+        "stage": "The Little Theatre"
+    },
+    {
+        "start": 1649367900000,
+        "end": 1649462400000,
+        "artist": "Bingo",
+        "stage": "The Little Theatre"
+    },
+    {
+        "start": 1649289600000,
+        "end": 1649293200000,
+        "artist": "Vincenergy",
+        "stage": "The Little Theatre"
+    }
+]
