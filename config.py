@@ -29,4 +29,4 @@ class Config:
     # Microservice discovery
     # this is where it can potentially happen
     # if we dont use any environment files or anything like that
-    # RECOMMENDER_URL = "127.0.0.1:8001"
+    SPOTIFY_SERVICE = "http://127.0.0.1:5001"
