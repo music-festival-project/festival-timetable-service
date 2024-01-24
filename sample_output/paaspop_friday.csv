@@ -1,0 +1,101 @@
+,start,end,artist,stage
+0,2022-04-07 16:00:00,2022-04-07 16:45:00,MEAU,Apollo
+1,2022-04-07 17:30:00,2022-04-07 18:30:00,Flemming,Apollo
+2,2022-04-07 19:30:00,2022-04-07 20:30:00,Antoon,Apollo
+3,2022-04-07 21:30:00,2022-04-07 22:30:00,DI-RECT,Apollo
+4,2022-04-07 23:30:00,2022-04-08 01:00:00,Limp Bizkit,Apollo
+0,2022-04-07 16:30:00,2022-04-07 17:30:00,Tabitha,Phoenix
+1,2022-04-07 18:30:00,2022-04-07 19:30:00,Triggerfinger,Phoenix
+2,2022-04-07 20:30:00,2022-04-07 21:30:00,Frank Carter & The Rattlesnakes,Phoenix
+3,2022-04-07 22:00:00,2022-04-07 23:30:00,Pan-Pot,Phoenix
+4,2022-04-07 23:30:00,2022-04-08 01:00:00,Enrico Sangiuliano,Phoenix
+0,2022-04-07 16:45:00,2022-04-07 17:15:00,Brunzyn,Roxy
+1,2022-04-07 17:45:00,2022-04-07 18:15:00,Cor,Roxy
+2,2022-04-07 19:45:00,2022-04-07 20:30:00,Bente,Roxy
+3,2022-04-07 21:00:00,2022-04-07 21:45:00,Dopebwoy,Roxy
+4,2022-04-07 22:30:00,2022-04-07 23:15:00,Rotjoch,Roxy
+5,2022-04-07 00:00:00,2022-04-07 01:00:00,Go_A,Roxy
+0,2022-04-07 16:00:00,2022-04-07 17:00:00,La June,The sIlver Warehouse
+1,2022-04-07 17:00:00,2022-04-07 18:00:00,Irwan,The sIlver Warehouse
+2,2022-04-07 18:00:00,2022-04-07 19:00:00,Sam Hofman,The sIlver Warehouse
+3,2022-04-07 19:00:00,2022-04-07 20:00:00,Mr. Belt & Wezol,The sIlver Warehouse
+4,2022-04-07 20:00:00,2022-04-07 21:00:00,La Fuente,The sIlver Warehouse
+5,2022-04-07 21:00:00,2022-04-07 22:00:00,Kris Kross Amsterdam,The sIlver Warehouse
+6,2022-04-07 22:00:00,2022-04-07 23:00:00,Adaro,The sIlver Warehouse
+7,2022-04-07 23:00:00,2022-04-08 00:00:00,Vertile,The sIlver Warehouse
+8,2022-04-07 00:00:00,2022-04-07 01:00:00,Sefa,The sIlver Warehouse
+0,2022-04-07 16:00:00,2022-04-07 17:00:00,Wargasm,The Jack
+1,2022-04-07 18:00:00,2022-04-07 19:00:00,Ploegendienst,The Jack
+2,2022-04-07 20:00:00,2022-04-07 21:00:00,Bob Vylan,The Jack
+0,2022-04-07 16:45:00,2022-04-07 17:30:00,KUZKO,Luxor
+1,2022-04-07 18:30:00,2022-04-07 19:30:00,Gallus,Luxor
+2,2022-04-07 20:30:00,2022-04-07 21:30:00,The Blue Stones,Luxor
+3,2022-04-07 22:30:00,2022-04-07 23:30:00,Wodan Boys,Luxor
+0,2022-04-07 18:00:00,2022-04-07 19:15:00,Crazy Little Things,Theatre
+1,2022-04-07 19:45:00,2022-04-07 21:00:00,The Ultimate Michael Jackson Experience,Theatre
+2,2022-04-07 21:30:00,2022-04-07 23:00:00,Martijn Fischer,Theatre
+3,2022-04-07 23:30:00,2022-04-08 01:00:00,Baby Blue,Theatre
+0,2022-04-07 16:00:00,2022-04-07 17:00:00,Harry und Stephan,Loco Royale
+1,2022-04-07 17:00:00,2022-04-07 18:15:00,"Hey Boyband, Hey Girlband",Loco Royale
+2,2022-04-07 18:15:00,2022-04-07 19:15:00,Show,Loco Royale
+3,2022-04-07 19:15:00,2022-04-07 19:45:00,Flipperdisco,Loco Royale
+4,2022-04-07 19:45:00,2022-04-07 20:45:00,Pure Ellende,Loco Royale
+5,2022-04-07 20:45:00,2022-04-07 21:15:00,Flipperdisco,Loco Royale
+6,2022-04-07 21:15:00,2022-04-07 22:15:00,STUK,Loco Royale
+7,2022-04-07 22:15:00,2022-04-07 22:45:00,Flipperdisco,Loco Royale
+8,2022-04-07 22:45:00,2022-04-08 00:00:00,Gestapo Knallmuzik,Loco Royale
+9,2022-04-07 00:00:00,2022-04-07 01:00:00,Loco Loco Discoshow,Loco Royale
+0,2022-04-07 18:30:00,2022-04-07 19:30:00,The Juke Joints,Area 9
+1,2022-04-07 21:00:00,2022-04-07 22:00:00,We're the Men,Area 9
+2,2022-04-07 23:30:00,2022-04-08 00:30:00,Piledriver,Area 9
+0,2022-04-07 16:00:00,2022-04-07 18:00:00,The Groove Supplier,The Garage
+1,2022-04-07 18:00:00,2022-04-07 19:00:00,CAJA,The Garage
+2,2022-04-07 19:00:00,2022-04-07 20:00:00,Ome Kev,The Garage
+3,2022-04-07 20:00:00,2022-04-07 21:30:00,Yoshua Jr.,The Garage
+4,2022-04-07 21:30:00,2022-04-07 23:00:00,Groove Safari,The Garage
+5,2022-04-07 23:00:00,2022-04-08 01:00:00,Nothing but Funk,The Garage
+0,2022-04-07 17:00:00,2022-04-07 17:30:00,Dirk Drost,Dolle Mina
+1,2022-04-07 18:30:00,2022-04-07 19:00:00,René Ulehake,Dolle Mina
+2,2022-04-07 20:30:00,2022-04-07 21:00:00,Marco Kanters,Dolle Mina
+3,2022-04-07 22:15:00,2022-04-07 22:45:00,John de Bever,Dolle Mina
+4,2022-04-07 00:00:00,2022-04-07 00:30:00,Arjon Oostrom,Dolle Mina
+0,2022-04-07 16:00:00,2022-04-07 16:45:00,Callkoen,The Social club
+1,2022-04-07 17:30:00,2022-04-07 18:30:00,Papaformigas,The Social club
+2,2022-04-07 19:30:00,2022-04-07 20:30:00,Goeiemiddag,The Social club
+3,2022-04-07 21:30:00,2022-04-07 22:30:00,Doctor Krapula,The Social club
+4,2022-04-07 23:45:00,2022-04-08 01:00:00,The Wetnecks,The Social club
+0,2022-04-07 15:00:00,2022-04-07 16:00:00,SMÈRRIG Diskjochies,SMÈRRIG
+1,2022-04-07 16:00:00,2022-04-07 17:00:00,SiRens,SMÈRRIG
+2,2022-04-07 17:00:00,2022-04-07 18:00:00,Gijs Padding,SMÈRRIG
+3,2022-04-07 18:00:00,2022-04-07 19:00:00,Bartje Bricks,SMÈRRIG
+4,2022-04-07 19:00:00,2022-04-07 20:00:00,Spinn'Em,SMÈRRIG
+5,2022-04-07 20:00:00,2022-04-07 21:00:00,Kruzo,SMÈRRIG
+6,2022-04-07 21:00:00,2022-04-07 22:00:00,Be Charm'D,SMÈRRIG
+7,2022-04-07 22:00:00,2022-04-07 23:00:00,Golddiggers,SMÈRRIG
+8,2022-04-07 23:00:00,2022-04-08 00:00:00,Rugged,SMÈRRIG
+9,2022-04-07 00:00:00,2022-04-07 01:00:00,Moschino,SMÈRRIG
+0,2022-04-07 15:00:00,2022-04-07 16:30:00,Robbie Lion,Disco Snolly
+1,2022-04-07 16:30:00,2022-04-07 18:00:00,De Manager,Disco Snolly
+2,2022-04-07 18:00:00,2022-04-07 19:30:00,Tommy Summer,Disco Snolly
+3,2022-04-07 19:30:00,2022-04-07 21:00:00,Disco Derek,Disco Snolly
+4,2022-04-07 21:00:00,2022-04-07 22:00:00,FissABBAnd,Disco Snolly
+5,2022-04-07 22:00:00,2022-04-07 23:30:00,Keezus Christus,Disco Snolly
+6,2022-04-07 23:30:00,2022-04-08 01:00:00,Disco Snolly,Disco Snolly
+0,2022-04-07 15:00:00,2022-04-07 16:30:00,K-man,Casa Barcardi
+1,2022-04-07 16:30:00,2022-04-07 18:15:00,Morry,Casa Barcardi
+2,2022-04-07 18:15:00,2022-04-07 18:30:00,Nereo,Casa Barcardi
+3,2022-04-07 19:00:00,2022-04-07 20:15:00,Elin Valery,Casa Barcardi
+4,2022-04-07 20:15:00,2022-04-07 21:10:00,Jorda,Casa Barcardi
+5,2022-04-07 21:10:00,2022-04-07 21:30:00,Kilate Tesla,Casa Barcardi
+6,2022-04-07 21:30:00,2022-04-07 23:00:00,Morry,Casa Barcardi
+7,2022-04-07 23:00:00,2022-04-08 00:00:00,MIMI,Casa Barcardi
+8,2022-04-07 00:00:00,2022-04-07 01:00:00,Jorda,Casa Barcardi
+0,2022-04-07 17:00:00,2022-04-07 17:45:00,Van Binsbergen Trio,The Little Theatre
+1,2022-04-07 17:45:00,2022-04-07 18:15:00,Braboneger,The Little Theatre
+2,2022-04-07 18:15:00,2022-04-07 18:45:00,Martijn oosterhuis,The Little Theatre
+3,2022-04-07 18:45:00,2022-04-07 19:30:00,Van Binsbergen Trio,The Little Theatre
+4,2022-04-07 19:30:00,2022-04-07 20:00:00,Braboneger,The Little Theatre
+5,2022-04-07 20:00:00,2022-04-07 20:30:00,Martijn oosterhuis,The Little Theatre
+6,2022-04-07 20:30:00,2022-04-07 21:15:00,Van Binsbergen Trio,The Little Theatre
+7,2022-04-07 21:45:00,2022-04-08 00:00:00,Bingo,The Little Theatre
+8,2022-04-07 00:00:00,2022-04-07 01:00:00,Vincenergy,The Little Theatre

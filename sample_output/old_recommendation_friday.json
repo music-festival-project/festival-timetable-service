@@ -1,0 +1,128 @@
+[
+    {
+        "start": "04\/07\/2022, 17:30:00",
+        "end": "04\/07\/2022, 18:30:00",
+        "artist": "Flemming",
+        "stage": "Apollo"
+    },
+    {
+        "start": "04\/07\/2022, 19:30:00",
+        "end": "04\/07\/2022, 20:30:00",
+        "artist": "Antoon",
+        "stage": "Apollo"
+    },
+    {
+        "start": "04\/07\/2022, 23:30:00",
+        "end": "04\/08\/2022, 01:00:00",
+        "artist": "Limp Bizkit",
+        "stage": "Apollo"
+    },
+    {
+        "start": "04\/07\/2022, 15:00:00",
+        "end": "04\/07\/2022, 16:30:00",
+        "artist": "K-man",
+        "stage": "Casa Barcardi"
+    },
+    {
+        "start": "04\/07\/2022, 20:15:00",
+        "end": "04\/07\/2022, 21:10:00",
+        "artist": "Jorda",
+        "stage": "Casa Barcardi"
+    },
+    {
+        "start": "04\/07\/2022, 21:10:00",
+        "end": "04\/07\/2022, 21:30:00",
+        "artist": "Kilate Tesla",
+        "stage": "Casa Barcardi"
+    },
+    {
+        "start": "04\/07\/2022, 16:30:00",
+        "end": "04\/07\/2022, 18:00:00",
+        "artist": "De Manager",
+        "stage": "Disco Snolly"
+    },
+    {
+        "start": "04\/07\/2022, 22:15:00",
+        "end": "04\/07\/2022, 22:45:00",
+        "artist": "John de Bever",
+        "stage": "Dolle Mina"
+    },
+    {
+        "start": "04\/07\/2022, 22:45:00",
+        "end": "04\/08\/2022, 00:00:00",
+        "artist": "Gestapo Knallmuzik",
+        "stage": "Loco Royale"
+    },
+    {
+        "start": "04\/07\/2022, 16:45:00",
+        "end": "04\/07\/2022, 17:30:00",
+        "artist": "KUZKO",
+        "stage": "Luxor"
+    },
+    {
+        "start": "04\/07\/2022, 22:30:00",
+        "end": "04\/07\/2022, 23:30:00",
+        "artist": "Wodan Boys",
+        "stage": "Luxor"
+    },
+    {
+        "start": "04\/07\/2022, 18:30:00",
+        "end": "04\/07\/2022, 19:30:00",
+        "artist": "Triggerfinger",
+        "stage": "Phoenix"
+    },
+    {
+        "start": "04\/07\/2022, 20:30:00",
+        "end": "04\/07\/2022, 21:30:00",
+        "artist": "Frank Carter & The Rattlesnakes",
+        "stage": "Phoenix"
+    },
+    {
+        "start": "04\/07\/2022, 22:00:00",
+        "end": "04\/07\/2022, 23:30:00",
+        "artist": "Pan-Pot",
+        "stage": "Phoenix"
+    },
+    {
+        "start": "04\/07\/2022, 16:00:00",
+        "end": "04\/07\/2022, 18:00:00",
+        "artist": "The Groove Supplier",
+        "stage": "The Garage"
+    },
+    {
+        "start": "04\/07\/2022, 21:30:00",
+        "end": "04\/07\/2022, 23:00:00",
+        "artist": "Groove Safari",
+        "stage": "The Garage"
+    },
+    {
+        "start": "04\/07\/2022, 23:00:00",
+        "end": "04\/08\/2022, 01:00:00",
+        "artist": "Nothing but Funk",
+        "stage": "The Garage"
+    },
+    {
+        "start": "04\/07\/2022, 18:00:00",
+        "end": "04\/07\/2022, 19:00:00",
+        "artist": "Ploegendienst",
+        "stage": "The Jack"
+    },
+    {
+        "start": "04\/07\/2022, 20:00:00",
+        "end": "04\/07\/2022, 21:00:00",
+        "artist": "Bob Vylan",
+        "stage": "The Jack"
+    },
+    {
+        "start": "04\/07\/2022, 23:45:00",
+        "end": "04\/08\/2022, 01:00:00",
+        "artist": "The Wetnecks",
+        "stage": "The Social club"
+    },
+    {
+        "start": "04\/07\/2022, 21:00:00",
+        "end": "04\/07\/2022, 22:00:00",
+        "artist": "Kris Kross Amsterdam",
+        "stage": "The sIlver Warehouse"
+    }
+]
